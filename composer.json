@@ -1,0 +1,16 @@
+{
+    "name": "hexlet/code",
+    "description": "Mind Games",
+    "autoload": {
+        "psr-4": {
+            "Hexlet\\Code\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alexey Eryomin",
+            "email": "Aleksey.er@gmail.com"
+        }
+    ],
+    "require": {}
+}
